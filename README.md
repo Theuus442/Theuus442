@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Matheus Alves Santana, tenho 19 anos e sou natural do São Paulo. Concluí o ensino médio no CPM-Jequié. Atualmente, estou cursando Ciência da Computação na USJT. Sou apaixonada por tecnologia.
+Me chamo Matheus Alves Santana, tenho 19 anos e sou natural do São Paulo. Concluí o ensino médio no CPM-Jequié. Atualmente, estou cursando Ciência da Computação na USJT. Sou apaixonado por tecnologia.
 
 
 <div align="left">
